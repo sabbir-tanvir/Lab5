@@ -97,3 +97,32 @@
   text-align: center;
 
 }
+.sec h3 {
+  font-size: 3rem;
+  color: #fff;
+}
+@media screen and (max-width: 720px) {
+  #header {
+    padding: 20px; /* Adjusted padding for smaller screens */
+  }
+
+  #header .logo {
+    font-size: 1.5rem; /* Adjusted font size for smaller screens */
+  }
+
+  #header ul {
+    gap: 15px; /* Adjusted gap for smaller screens */
+  }
+
+  #header ul li a {
+    padding: 6px 8px; /* Adjusted padding for smaller screens */
+  }
+
+  .sec {
+    padding: 30px; /* Adjusted padding for smaller screens */
+  }
+
+  .sec h3 {
+    font-size: 1.5rem; /* Font size changed to 1.5rem for smaller screens */
+  }
+}
