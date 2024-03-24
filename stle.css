@@ -66,7 +66,7 @@
   position: absolute;
   transform: translateY(100%);
   color: #094b65;
-  font-family: 'Rancho' cursive;
+  font-family: 'Rancho', cursive;
   font-size: 10vw;
   white-space: no-wrap;
   text-align: center;
@@ -94,10 +94,6 @@
   font-size: 3rem;
   color: #fff;
   margin-bottom: 10px;
+  text-align: center;
 
-}
-
-.sec p {
-  color: #fff;
-  font-size: 1rem;
 }
